@@ -78,7 +78,8 @@ Users can dynamically explore the dashboard using:
 # 📷 Dashboard Preview
 
 ## 🔹 Main Dashboard
-(Add Screenshot Here)
+<img width="1355" height="684" alt="Superstore" src="https://github.com/user-attachments/assets/9cadf9d6-9cf8-4666-9c89-a57d90734bd3" />
+
 
 ---
 
